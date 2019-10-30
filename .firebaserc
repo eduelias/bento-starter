@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bento-starter"
+    "default": "weaksuit-e9af2",
+    "stag": "weaksuit-e9af2"
   }
 }
